@@ -1,0 +1,15 @@
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\obj\Debug\net7.0\Clock Patience.csproj.AssemblyReference.cache
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\obj\Debug\net7.0\Clock Patience.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\obj\Debug\net7.0\Clock Patience.AssemblyInfoInputs.cache
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\obj\Debug\net7.0\Clock Patience.AssemblyInfo.cs
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\obj\Debug\net7.0\Clock Patience.csproj.CoreCompileInputs.cache
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\bin\Debug\net7.0\Clock Patience.exe
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\bin\Debug\net7.0\Clock Patience.deps.json
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\bin\Debug\net7.0\Clock Patience.runtimeconfig.json
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\bin\Debug\net7.0\Clock Patience.dll
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\bin\Debug\net7.0\Clock Patience.pdb
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\obj\Debug\net7.0\Clock Patience.dll
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\obj\Debug\net7.0\refint\Clock Patience.dll
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\obj\Debug\net7.0\Clock Patience.pdb
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\obj\Debug\net7.0\Clock Patience.genruntimeconfig.cache
+C:\Users\ErikP\OneDrive\Töölaud\Clock Patience\obj\Debug\net7.0\ref\Clock Patience.dll
